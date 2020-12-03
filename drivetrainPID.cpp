@@ -30,7 +30,6 @@ float kp = 0.3;
 float ki = 0.0;
 float kd = 0.0;
 
-
 //declare float variables
 float setpoint, currentTicksL, currentTicksR, errorPowerL, errorPowerR, newPowerL, newPowerR, lastErrorL, lastErrorR;
 
