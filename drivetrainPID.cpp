@@ -50,7 +50,6 @@ int calculationTime = 50;
 
 void setup() {
 
-
 	//set all drivetrain motor pins to OUTPUT mode
 	pinMode(leftBackward, OUTPUT);
 	pinMode(leftForward, OUTPUT);
